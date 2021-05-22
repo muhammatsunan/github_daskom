@@ -5,6 +5,6 @@
 </head>
 <body>
 <p>Ini halaman kedua</p>
-<a href="{{url('/home')}}">Home</a>
+<a href="{{url('/home0159')}}">Home</a>
 </body>
 </html>
